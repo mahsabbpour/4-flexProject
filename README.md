@@ -1,10 +1,6 @@
 # 4-flexProject
 
-
-
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view](https://user-images.githubusercontent.com/120960956/211676583-9d894235-dadd-4943-aec0-eaee50bbbd51.mp4)
 
 - [Demo Project]( https://mahsabbpour.github.io/4-flexProject/)
 
